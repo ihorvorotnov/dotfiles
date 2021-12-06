@@ -1,5 +1,3 @@
-# My .dotfiles
-
 ## Installation
 
 1. Clone into `~/.dotfiles`
